@@ -1,146 +1,148 @@
-[
-  {
-    "id":"5f9859a178fd3b11bda02",
-    "state":"active",
-    "phrase":"#Find out how you can help.",
-    "type":"phrase",
-    "checksum":"489e46397571e65b5ba4ab1131e847f9",
-    "phraseKey":null,
-    "context":null,
-    "labels":[
-      
-    ],
-    "translations":[
-      {
-        "id":"5f9859a278fd32dbda2c",
-        "state":"active",
-        "phrase":"#Find out how you can help.",
-        "value":"Découvrez comment vous pouvez aider.",
-        "comment":null,
-        "language":"fr-CA",
-        "translator":"google",
-        "phraseKey":null,
-        "updatedAt":"2020-10-27T17:32:18.283Z"
-      },
-      {
-        "id":"5f9859adbc5112b13e17f",
-        "state":"active",
-        "phrase":"#Find out how you can help.",
-        "value":"了解如何提供帮助。",
-        "comment":null,
-        "language":"zh",
-        "translator":"google",
-        "phraseKey":null,
-        "updatedAt":"2020-10-27T17:32:29.198Z"
-      }
-    ]
-  },
-  {
-    "id":"5f9859a178fd332dbd9fa",
-    "state":"active",
-    "phrase":"#We aim to protect these areas from inappropriate development, but we cannot achieve our goals alone.",
-    "type":"phrase",
-    "checksum":"9abc46c0398e2caeab2b0aa2d2784b39",
-    "phraseKey":null,
-    "context":null,
-    "labels":[
-      
-    ],
-    "translations":[
-      {
-        "id":"5f9859afd3b1132dbda2d",
-        "state":"active",
-        "phrase":"#We aim to protect these areas from inappropriate development, but we cannot achieve our goals alone.",
-        "value":"Nous visons à protéger ces zones d'un développement inapproprié, mais nous ne pouvons atteindre nos objectifs seuls.",
-        "comment":null,
-        "language":"fr-CA",
-        "translator":"google",
-        "phraseKey":null,
-        "updatedAt":"2020-10-27T17:32:18.283Z"
-      },
-      {
-        "id":"5f9859adbc5112b13e180",
-        "state":"active",
-        "phrase":"#We aim to protect these areas from inappropriate development, but we cannot achieve our goals alone.",
-        "value":"我们旨在保护这些地区免于不适当的发展，但我们不能仅实现目标。",
-        "comment":null,
-        "language":"zh",
-        "translator":"google",
-        "phraseKey":null,
-        "updatedAt":"2020-10-27T17:32:29.198Z"
-      }
-    ]
-  },
-  {
-    "id":"5f9859a178fd3b2dbd9f2",
-    "state":"active",
-    "phrase":"#Some of our Earth's greatest landscapes are threatened by increased road construction, oil and gas exploration, and mining.",
-    "type":"phrase",
-    "checksum":"11912f66cfe45a69cf33600f07528515",
-    "phraseKey":null,
-    "context":null,
-    "labels":[
-      
-    ],
-    "translations":[
-      {
-        "id":"5f9859a278fd3b113da2e",
-        "state":"active",
-        "phrase":"#Some of our Earth's greatest landscapes are threatened by increased road construction, oil and gas exploration, and mining.",
-        "value":"Certains des plus grands paysages de notre planète sont menacés par l'augmentation de la construction de routes, de l'exploration pétrolière et gazière et de l'exploitation minière.",
-        "comment":null,
-        "language":"fr-CA",
-        "translator":"google",
-        "phraseKey":null,
-        "updatedAt":"2020-10-27T17:32:18.283Z"
-      },
-      {
-        "id":"5f9859adbce475112e181",
-        "state":"active",
-        "phrase":"#Some of our Earth's greatest landscapes are threatened by increased road construction, oil and gas exploration, and mining.",
-        "value":"道路建设，石油和天然气勘探以及采矿业的增长威胁着我们地球上一些最伟大的景观。",
-        "comment":null,
-        "language":"zh",
-        "translator":"google",
-        "phraseKey":null,
-        "updatedAt":"2020-10-27T17:32:29.198Z"
-      }
-    ]
-  },
-  {
-    "id":"5f9859a178fd3b1132dba",
-    "state":"active",
-    "phrase":"#We conserve land through outreach, restoration, and research.",
-    "type":"phrase",
-    "checksum":"06da15bfd48af5698a88eec3e6eb83bc",
-    "phraseKey":null,
-    "context":null,
-    "labels":[
-      
-    ],
-    "translations":[
-      {
-        "id":"5f9859a278fd3b1132dbf",
-        "state":"active",
-        "phrase":"#We conserve land through outreach, restoration, and research.",
-        "value":"Nous conservons les terres grâce à la sensibilisation, la restauration et la recherche.",
-        "comment":null,
-        "language":"fr-CA",
-        "translator":"google",
-        "phraseKey":null,
-        "updatedAt":"2020-10-27T17:32:18.283Z"
-      },
-      {
-        "id":"5f9859adbce475112b13e",
-        "state":"active",
-        "phrase":"#We conserve land through outreach, restoration, and research.",
-        "value":"我们通过外展，修复和研究保护土地。",
-        "comment":null,
-        "language":"zh",
-        "translator":"google",
-        "phraseKey":null,
-        "updatedAt":"2020-10-27T17:32:29.198Z"
-      }
-    ]
-  }
-]
+{
+  "phrases: [
+    {
+      "id":"5f9859a178fd3b11bda02",
+      "state":"active",
+      "phrase":"#Find out how you can help.",
+      "type":"phrase",
+      "checksum":"489e46397571e65b5ba4ab1131e847f9",
+      "phraseKey":null,
+      "context":null,
+      "labels":[
+
+      ],
+      "translations":[
+        {
+          "id":"5f9859a278fd32dbda2c",
+          "state":"active",
+          "phrase":"#Find out how you can help.",
+          "value":"Découvrez comment vous pouvez aider.",
+          "comment":null,
+          "language":"fr-CA",
+          "translator":"google",
+          "phraseKey":null,
+          "updatedAt":"2020-10-27T17:32:18.283Z"
+        },
+        {
+          "id":"5f9859adbc5112b13e17f",
+          "state":"active",
+          "phrase":"#Find out how you can help.",
+          "value":"了解如何提供帮助。",
+          "comment":null,
+          "language":"zh",
+          "translator":"google",
+          "phraseKey":null,
+          "updatedAt":"2020-10-27T17:32:29.198Z"
+        }
+      ]
+    },
+    {
+      "id":"5f9859a178fd332dbd9fa",
+      "state":"active",
+      "phrase":"#We aim to protect these areas from inappropriate development, but we cannot achieve our goals alone.",
+      "type":"phrase",
+      "checksum":"9abc46c0398e2caeab2b0aa2d2784b39",
+      "phraseKey":null,
+      "context":null,
+      "labels":[
+
+      ],
+      "translations":[
+        {
+          "id":"5f9859afd3b1132dbda2d",
+          "state":"active",
+          "phrase":"#We aim to protect these areas from inappropriate development, but we cannot achieve our goals alone.",
+          "value":"Nous visons à protéger ces zones d'un développement inapproprié, mais nous ne pouvons atteindre nos objectifs seuls.",
+          "comment":null,
+          "language":"fr-CA",
+          "translator":"google",
+          "phraseKey":null,
+          "updatedAt":"2020-10-27T17:32:18.283Z"
+        },
+        {
+          "id":"5f9859adbc5112b13e180",
+          "state":"active",
+          "phrase":"#We aim to protect these areas from inappropriate development, but we cannot achieve our goals alone.",
+          "value":"我们旨在保护这些地区免于不适当的发展，但我们不能仅实现目标。",
+          "comment":null,
+          "language":"zh",
+          "translator":"google",
+          "phraseKey":null,
+          "updatedAt":"2020-10-27T17:32:29.198Z"
+        }
+      ]
+    },
+    {
+      "id":"5f9859a178fd3b2dbd9f2",
+      "state":"active",
+      "phrase":"#Some of our Earth's greatest landscapes are threatened by increased road construction, oil and gas exploration, and mining.",
+      "type":"phrase",
+      "checksum":"11912f66cfe45a69cf33600f07528515",
+      "phraseKey":null,
+      "context":null,
+      "labels":[
+
+      ],
+      "translations":[
+        {
+          "id":"5f9859a278fd3b113da2e",
+          "state":"active",
+          "phrase":"#Some of our Earth's greatest landscapes are threatened by increased road construction, oil and gas exploration, and mining.",
+          "value":"Certains des plus grands paysages de notre planète sont menacés par l'augmentation de la construction de routes, de l'exploration pétrolière et gazière et de l'exploitation minière.",
+          "comment":null,
+          "language":"fr-CA",
+          "translator":"google",
+          "phraseKey":null,
+          "updatedAt":"2020-10-27T17:32:18.283Z"
+        },
+        {
+          "id":"5f9859adbce475112e181",
+          "state":"active",
+          "phrase":"#Some of our Earth's greatest landscapes are threatened by increased road construction, oil and gas exploration, and mining.",
+          "value":"道路建设，石油和天然气勘探以及采矿业的增长威胁着我们地球上一些最伟大的景观。",
+          "comment":null,
+          "language":"zh",
+          "translator":"google",
+          "phraseKey":null,
+          "updatedAt":"2020-10-27T17:32:29.198Z"
+        }
+      ]
+    },
+    {
+      "id":"5f9859a178fd3b1132dba",
+      "state":"active",
+      "phrase":"#We conserve land through outreach, restoration, and research.",
+      "type":"phrase",
+      "checksum":"06da15bfd48af5698a88eec3e6eb83bc",
+      "phraseKey":null,
+      "context":null,
+      "labels":[
+
+      ],
+      "translations":[
+        {
+          "id":"5f9859a278fd3b1132dbf",
+          "state":"active",
+          "phrase":"#We conserve land through outreach, restoration, and research.",
+          "value":"Nous conservons les terres grâce à la sensibilisation, la restauration et la recherche.",
+          "comment":null,
+          "language":"fr-CA",
+          "translator":"google",
+          "phraseKey":null,
+          "updatedAt":"2020-10-27T17:32:18.283Z"
+        },
+        {
+          "id":"5f9859adbce475112b13e",
+          "state":"active",
+          "phrase":"#We conserve land through outreach, restoration, and research.",
+          "value":"我们通过外展，修复和研究保护土地。",
+          "comment":null,
+          "language":"zh",
+          "translator":"google",
+          "phraseKey":null,
+          "updatedAt":"2020-10-27T17:32:29.198Z"
+        }
+      ]
+    }
+  ]
+}
